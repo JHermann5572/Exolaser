@@ -6,6 +6,7 @@ An educational tool for students to interact with exoplanets.
 - C#
 - Visual Studio Code
 - Google Colab
+- Excalidraw
 - GitHub
 
 ## Made for SpaceApps 2024
